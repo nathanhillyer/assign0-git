@@ -1,13 +1,9 @@
 apple
 mango fruit
 orange
-<<<<<<< HEAD
 peach
-||||||| merged common ancestors
-=======
 banana
->>>>>>> 9f477db29e257ac0f1d2c65d51e5c22e8fdfba06
-lemon
 lemon
 plum
 kiwi
+date
