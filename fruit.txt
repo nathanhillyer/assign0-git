@@ -1,7 +1,12 @@
 apple
 mango
 orange
-pineapple
-orange
-mango
+banana
 peach
+lemon
+plum
+<<<<<<< HEAD
+kiwi
+=======
+date
+>>>>>>> BOB: added date to fruit list
