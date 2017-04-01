@@ -1,9 +1,1 @@
 apple
-mango fruit
-orange
-peach
-banana
-lemon
-plum
-kiwi
-date
