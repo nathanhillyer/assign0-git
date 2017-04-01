@@ -5,4 +5,8 @@ banana
 peach
 lemon
 plum
+<<<<<<< HEAD
 kiwi
+=======
+date
+>>>>>>> BOB: added date to fruit list
